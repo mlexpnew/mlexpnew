@@ -39,9 +39,9 @@ CrewAI + Gemini multi-agent pipeline that turns a product brief into an engineer
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlexpnew&layout=compact&hide_border=true)
 
 ## Connect
-- Portfolio: *[add your portfolio URL]*
+- Portfolio: https://chandni-ai-portfolio.vercel.app/
 - LinkedIn: *[add your LinkedIn URL]*
-- Email: *[add your email]*## Hi there 👋
+- Email: mlexpnew@gmail.com
 
 <!--
 **mlexpnew/mlexpnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
