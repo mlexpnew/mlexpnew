@@ -2,7 +2,7 @@
 
 **AI Engineer specializing in Generative AI, Agentic AI systems, and Retrieval-Augmented Generation.**
 
-I build production-oriented AI applications — multi-agent systems, RAG pipelines, and LLM-powered tools — using Python, LangChain, LangGraph, FastAPI, and Gemini/OpenAI. Based in Bangalore, India.
+I build production-oriented AI applications multi-agent systems, RAG pipelines, and LLM-powered tools using Python, LangChain, LangGraph, FastAPI, and Gemini/OpenAI. Based in Bangalore, India.
 
 ## Currently
 - Building agentic AI systems and RAG applications end-to-end (backend, retrieval, deployment)
