@@ -1,59 +1,29 @@
-# Hi, I'm Chandini 👋
+# Chandini Pradhan
 
-**AI Engineer specializing in Generative AI, Agentic AI systems, and Retrieval-Augmented Generation.**
+**AI Engineer who ships production-ready agentic systems.**
+LangGraph · RAG · FastAPI · Docker · CI/CD · LLM evaluation. Bengaluru / Remote. Open to AI Engineer roles.
 
-I build production-oriented AI applications multi-agent systems, RAG pipelines, and LLM-powered tools using Python, LangChain, LangGraph, FastAPI, and Gemini/OpenAI. Based in Bangalore, India.
+### What I build
+- Multi-agent systems with LangGraph and LangChain, evaluated with LangSmith and Arize
+- RAG pipelines with vector search and grounded, cited answers
+- Production APIs: Docker, GitHub Actions CI, API key auth, rate limiting, structured logging, monitoring
 
-## Currently
-- Building agentic AI systems and RAG applications end-to-end (backend, retrieval, deployment)
-- Open to AI Engineer / Generative AI Engineer / Agentic AI Engineer roles
-- Exploring multi-agent orchestration patterns (LangGraph, CrewAI) for production use cases
+### Featured projects
+**[SupportPilot](https://github.com/mlexpnew/supportpilot-ingestion)** : ticket triage API
+Streaming ingestion (1M records in 9.4s), PII redaction, multi-stage Docker (<400 MB, non-root),
+constant-time API key auth, sliding-window rate limiting (429 + Retry-After), operations runbook.
 
-## Core Expertise
-- **Agentic AI Systems** — multi-agent orchestration, autonomous decision pipelines, human-in-the-loop workflows
-- **RAG & LLM Applications** — document retrieval, vector search, semantic Q&A systems
-- **ML & Data Engineering** — end-to-end pipelines from ingestion to deployment
-- **Applied Finance AI** — portfolio analysis, compliance monitoring, risk assessment systems
+**[WorkBridge Compliance AI](https://github.com/mlexpnew/WorkBridge_Compliance_AI_System)** : multi-agent compliance monitor
+Agents for trading, lending, communications and sanctions screening with human-in-the-loop review.
 
-## Tech Stack
-`Python` `SQL` `LangChain` `LangGraph` `CrewAI` `FastAPI` `Streamlit` `Google Gemini` `OpenAI` `ChromaDB` `FAISS` `PostgreSQL` `Docker` `Pandas` `Scikit-learn` `Airflow`
+**[Enterprise RAG Assistant](https://github.com/mlexpnew/Enterprise-Multi-Document-RAG-AI-Assistant-)** : multi-document Q&A
+FastAPI + Gemini + ChromaDB, Dockerized.
 
-## Featured Projects
+**[ArchitectAI](https://github.com/mlexpnew/ArchitectAI-Autonomous-Tech-Lead)** : product brief to engineering blueprint
+CrewAI + Gemini multi-agent pipeline.
 
-**[Enterprise RAG Assistant](https://github.com/mlexpnew/Enterprise-Multi-Document-RAG-AI-Assistant-)**
-Multi-document RAG system for enterprise knowledge retrieval — FastAPI, Gemini, ChromaDB, Docker.
+### Stack
+Python · SQL · LangGraph · LangChain · FastAPI · ChromaDB · FAISS · PostgreSQL · Docker · GitHub Actions · scikit-learn
 
-**[Autonomous Portfolio Rebalancing Agent](https://github.com/mlexpnew/Autonomous-Portfolio-Rebalancing-Agent)**
-Multi-agent system for portfolio monitoring, risk assessment, and rebalancing recommendations.
-
-**[Compliance AI System](https://github.com/mlexpnew/WorkBridge_Compliance_AI_System)**
-Multi-agent regulatory compliance monitoring across trading, lending, and communications.
-
-**[ArchitectAI — Autonomous Tech Lead](https://github.com/mlexpnew/ArchitectAI-Autonomous-Tech-Lead)**
-CrewAI + Gemini multi-agent pipeline that turns a product brief into an engineering blueprint.
-
-*(See pinned repositories below for the full list.)*
-
-## GitHub Stats
-![Chandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlexpnew&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlexpnew&layout=compact&hide_border=true)
-
-## Connect
-- Portfolio: https://chandni-ai-portfolio.vercel.app/
-- LinkedIn: *[add your LinkedIn URL]*
-- Email: mlexpnew@gmail.com
-
-<!--
-**mlexpnew/mlexpnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+[Portfolio](https://chandni-ai-portfolio.vercel.app/) · mlexpnew@gmail.com
