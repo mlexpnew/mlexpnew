@@ -25,4 +25,4 @@ CrewAI + Gemini multi-agent pipeline.
 Python · SQL · LangGraph · LangChain · FastAPI · ChromaDB · FAISS · PostgreSQL · Docker · GitHub Actions · scikit-learn
 
 ### Contact
-[Portfolio](https://chandni-ai-portfolio.vercel.app/) · mlexpnew@gmail.com
+[Portfolio](https://chandni-ai-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/chandni-pradhan-67aa91324/) · mlexpnew@gmail.com
