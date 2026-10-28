@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Multi-agent+systems+with+LangGraph+%F0%9F%A4%96;RAG+pipelines+with+grounded%2C+cited+answers+%F0%9F%93%9A;Production+APIs%3A+Docker+%C2%B7+CI%2FCD+%C2%B7+monitoring+%F0%9F%9A%80;Open+to+AI+Engineer+roles+%E2%80%94+Bengaluru+%2F+Remote" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Multi-agent+systems+with+LangGraph;RAG+pipelines+with+grounded%2C+cited+answers;Production+APIs%3A+Docker+%C2%B7+CI%2FCD+%C2%B7+monitoring;Open+to+AI+Engineer+roles+%E2%80%94+Bengaluru+%2F+Remote" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,26 +15,26 @@
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
-- 🤖 **Multi-agent systems** with LangGraph & LangChain, evaluated with LangSmith & Arize
-- 📚 **RAG pipelines** with vector search and grounded, cited answers
-- 🚀 **Production APIs:** Docker, GitHub Actions CI, API key auth, rate limiting, structured logging, monitoring
+- **Multi-agent systems** with LangGraph & LangChain, evaluated with LangSmith & Arize
+- **RAG pipelines** with vector search and grounded, cited answers
+- **Production APIs:** Docker, GitHub Actions CI, API key auth, rate limiting, structured logging, monitoring
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Highlights |
 |---|---|---|
-| 🎫 [**SupportPilot**](https://github.com/mlexpnew/supportpilot-ingestion) | Ticket triage API | Streaming ingestion (1M records in 9.4s) · PII redaction · multi-stage Docker (<400 MB, non-root) · constant-time API key auth · sliding-window rate limiting (429 + Retry-After) · ops runbook |
-| 🛡️ [**WorkBridge Compliance AI**](https://github.com/mlexpnew/WorkBridge_Compliance_AI_System) | Multi-agent compliance monitor | Agents for trading, lending, communications & sanctions screening · human-in-the-loop review |
-| 📚 [**Enterprise RAG Assistant**](https://github.com/mlexpnew/Enterprise-Multi-Document-RAG-AI-Assistant-) | Multi-document Q&A | FastAPI · Gemini · ChromaDB · Dockerized |
-| 🏗️ [**ArchitectAI**](https://github.com/mlexpnew/ArchitectAI-Autonomous-Tech-Lead) | Product brief → engineering blueprint | CrewAI · Gemini multi-agent pipeline |
+| [**SupportPilot**](https://github.com/mlexpnew/supportpilot-ingestion) | Ticket triage API | Streaming ingestion (1M records in 9.4s) · PII redaction · multi-stage Docker (<400 MB, non-root) · constant-time API key auth · sliding-window rate limiting (429 + Retry-After) · ops runbook |
+| [**WorkBridge Compliance AI**](https://github.com/mlexpnew/WorkBridge_Compliance_AI_System) | Multi-agent compliance monitor | Agents for trading, lending, communications & sanctions screening · human-in-the-loop review |
+| [**Enterprise RAG Assistant**](https://github.com/mlexpnew/Enterprise-Multi-Document-RAG-AI-Assistant-) | Multi-document Q&A | FastAPI · Gemini · ChromaDB · Dockerized |
+| [**ArchitectAI**](https://github.com/mlexpnew/ArchitectAI-Autonomous-Tech-Lead) | Product brief → engineering blueprint | CrewAI · Gemini multi-agent pipeline |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,githubactions,git,linux,vscode&perline=8" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mlexpnew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <b>💬 Open to AI Engineer roles. Let's talk: <a href="https://www.linkedin.com/in/chandni-pradhan-67aa91324/">LinkedIn</a> · <a href="mailto:mlexpnew@gmail.com">Email</a></b>
+  <b>Open to AI Engineer roles. Let's talk: <a href="https://www.linkedin.com/in/chandni-pradhan-67aa91324/">LinkedIn</a> · <a href="mailto:mlexpnew@gmail.com">Email</a></b>
 </p>
 
 <p align="center">
