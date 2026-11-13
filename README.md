@@ -20,6 +20,7 @@ Agentic AI Engineer at **Zetheta Algorithms**, Bengaluru. I build AI products fo
 | [**InvoiceIQ**](https://github.com/mlexpnew/invoiceiq) | GST invoice checks and GSTR-2B reconciliation before claiming input tax credit | 100% extraction and error detection on 160 invoices · unseen layout: 0 wrong postings, 60/60 sent to LLM fallback |
 | [**FairShortlist**](https://github.com/mlexpnew/fairshortlist) | Blind, explainable resume screening for recruiters | Ranking 100% vs 42% TF-IDF and 30% keyword ATS · swapping name and gender changes scores by 0 |
 | [**ChurnShield**](https://github.com/mlexpnew/churnshield) | Which bank customers will leave, why, and who to call within budget | ROC-AUC 0.864 on held-out customers · €406,848 retained value vs €111,726 random targeting |
+| [**Clausewise**](https://github.com/mlexpnew/clausewise) | HR and policy helpdesk that quotes the exact clause, says "not covered" instead of guessing | 0 HR-only leaks vs 16 for a typical RAG · held-out 82% vs 39% · version-aware |
 | [**ClearMIS**](https://github.com/mlexpnew/clearmis) | Monthly MIS from a raw Shopify, Tally or Excel sales export, every number verified | Exact revenue where the raw export is up to 14% too high · right driver 12/12 months · no AI-written code runs |
 | [**TickTrust**](https://github.com/mlexpnew/ticktrust) | Crypto reference prices a payment gateway can safely quote on, with feed-integrity alerts | 0 bad quotes vs 2,870 from a single API on held-out data · 58/58 feed faults caught, 0 false alerts |
 | [**ProofPost**](https://github.com/mlexpnew/proofpost) | Real customer reviews to compliant social posts every week (n8n + FastAPI) | 0 problem posts vs 606 with naive reposting · verbatim quotes · DPDP-aware redaction |
@@ -31,7 +32,6 @@ Agentic AI Engineer at **Zetheta Algorithms**, Bengaluru. I build AI products fo
 
 - [**WealthPilot**](https://github.com/mlexpnew/Autonomous-Portfolio-Rebalancing-Agent): 10-agent portfolio rebalancer with human approval, compliance checks and audit log
 - [**WorkBridge Compliance AI**](https://github.com/mlexpnew/WorkBridge_Compliance_AI_System): multi-agent monitoring across trading, lending, communications and sanctions
-- [**Enterprise RAG Assistant**](https://github.com/mlexpnew/enterprise-rag-assistant): multi-document Q&A with FastAPI, Gemini and ChromaDB
 - [**Product Pricing ETL**](https://github.com/mlexpnew/product-pricing-airflow-etl): daily Airflow pipeline into PostgreSQL, fully Dockerized
 - [**Trader Sentiment Analysis**](https://github.com/mlexpnew/primetrade-trader-sentiment-analysis): Fear and Greed regimes vs trader performance · [live dashboard](https://primetrade-trader-sentiment-analysis.streamlit.app/)
 
