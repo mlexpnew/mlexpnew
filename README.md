@@ -18,8 +18,9 @@ Agentic AI Engineer at **Zetheta Algorithms**, Bengaluru. I build AI products fo
 | Project | Problem it solves | Measured result |
 |---|---|---|
 | [**InvoiceIQ**](https://github.com/mlexpnew/invoiceiq) | GST invoice checks and GSTR-2B reconciliation before claiming input tax credit | 100% extraction and error detection on 160 invoices · unseen layout: 0 wrong postings, 60/60 sent to LLM fallback |
-| [**HireLens**](https://github.com/mlexpnew/hirelens) | Blind, explainable resume screening for recruiters | Ranking 100% vs 42% TF-IDF and 30% keyword ATS · swapping name and gender changes scores by 0 |
-| [**RetainLens**](https://github.com/mlexpnew/retainlens) | Which bank customers will leave, why, and who to call within budget | ROC-AUC 0.864 on held-out customers · €406,848 retained value vs €111,726 random targeting |
+| [**FairShortlist**](https://github.com/mlexpnew/fairshortlist) | Blind, explainable resume screening for recruiters | Ranking 100% vs 42% TF-IDF and 30% keyword ATS · swapping name and gender changes scores by 0 |
+| [**ChurnShield**](https://github.com/mlexpnew/churnshield) | Which bank customers will leave, why, and who to call within budget | ROC-AUC 0.864 on held-out customers · €406,848 retained value vs €111,726 random targeting |
+| [**ProofPost**](https://github.com/mlexpnew/proofpost) | Real customer reviews to compliant social posts every week (n8n + FastAPI) | 0 problem posts vs 606 with naive reposting · verbatim quotes · DPDP-aware redaction |
 | [**RegLens**](https://github.com/mlexpnew/reglens) | Cited answers to SEBI regulation questions | LangGraph planner, analyst and compliance checker · recall@4 100% · eval-gated releases |
 | [**ArchitectAI**](https://github.com/mlexpnew/architectai) | Plain-English requirements to a working FastAPI backend | 8/8 generated apps boot · 112/112 CRUD checks pass in CI |
 | [**SupportPilot**](https://github.com/mlexpnew/supportpilot-ingestion) | Production ticket triage API | 1M records ingested in 9.4 s · PII redaction · API keys and rate limiting · on-call runbook |
