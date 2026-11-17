@@ -25,6 +25,7 @@ Agentic AI Engineer at **Zetheta Algorithms**, Bengaluru. I build AI products fo
 | [**WorkBridge Compliance AI**](https://github.com/mlexpnew/WorkBridge_Compliance_AI_System) | Anti-money-laundering monitoring for Indian NBFCs, banks and payment companies | 128 alerts vs 35,143 from threshold rules · every planted case caught for the right reason · 46 of top 50 cases real |
 | [**BalanceBook**](https://github.com/mlexpnew/balancebook) | Tax-aware portfolio rebalancing for Indian advisers, with adviser approval | Same risk control as band rebalancing · 50% less tax (78% on a held-out market) · 10-year backtest |
 | [**TiltGuard**](https://github.com/mlexpnew/tiltguard) | Risk desk for crypto prop firms and copy-trading: tilt, size spikes, overtrading, limit breaches | 92% of injected episodes caught vs 50% for fixed limits · 1/7 of the alerts · real Hyperliquid trades |
+| [**ShelfWatch**](https://github.com/mlexpnew/product-pricing-airflow-etl) | Competitor price and stock monitoring for online sellers, every crawl checked before it is trusted | 3 false alerts vs 7,264 for the original ETL · 99% of real changes caught · Airflow + PostgreSQL |
 | [**TickTrust**](https://github.com/mlexpnew/ticktrust) | Crypto reference prices a payment gateway can safely quote on, with feed-integrity alerts | 0 bad quotes vs 2,870 from a single API on held-out data · 58/58 feed faults caught, 0 false alerts |
 | [**ProofPost**](https://github.com/mlexpnew/proofpost) | Real customer reviews to compliant social posts every week (n8n + FastAPI) | 0 problem posts vs 606 with naive reposting · verbatim quotes · DPDP-aware redaction |
 | [**RegLens**](https://github.com/mlexpnew/reglens) | Cited answers to SEBI regulation questions | LangGraph planner, analyst and compliance checker · recall@4 100% · eval-gated releases |
@@ -33,7 +34,6 @@ Agentic AI Engineer at **Zetheta Algorithms**, Bengaluru. I build AI products fo
 
 ## More work
 
-- [**Product Pricing ETL**](https://github.com/mlexpnew/product-pricing-airflow-etl): daily Airflow pipeline into PostgreSQL, fully Dockerized
 
 ---
 
